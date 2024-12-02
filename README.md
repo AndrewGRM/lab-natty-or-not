@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+A Jornada da IA: Um Passeio pelo Futuro 🌌
 
-## 🚀 Introdução
+📒 Descrição
+Este é um E-Book de 6 páginas sobre Exploração Espacial
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a capa do E-book;
+Ferramenta Word para a edição e adicionar a capa gerada pelo Leonardo AI.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre exploração espacial, que no momento é um assunto muito abordado por conta dos lançamentos da SpaceX, onde mostra o avanço da tecnologia. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Word.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+O e-book apresenta um conteúdo envolvente e visualmente rico.
 
-### Objetivos
+https://cdn.discordapp.com/attachments/1272595482354516050/1313215737732530367/Exploracao_Espacial.pdf?ex=674f52f6&is=674e0176&hm=2e43ff7d5363b88cf21f67b1bdcb62b2f4870b7eb7563266ccfac75b99272b60&
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+💭 Reflexão
+Com esse E-book podemos tirar como conclusão o tanto que a tecnologia está avançando com o passar do tempo.
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

@@ -1,4 +1,4 @@
-A Jornada da IA: Um Passeio pelo Futuro 🌌
+Exploração Espacial 🌌
 
 📒 Descrição
 Este é um E-Book de 6 páginas sobre Exploração Espacial
